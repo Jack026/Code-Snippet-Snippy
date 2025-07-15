@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const STORAGE_KEY = "Snippy_theme";
 
 export function useTheme() {
-  const [theme, setTheme] = useState("dark");
+  const [theme, setTheme] = useState("light");
 
   useEffect(() => {
     const saved = localStorage.getItem(STORAGE_KEY);
