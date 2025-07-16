@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
     <a href="https://linkedin.com/in/sourav-jyoti-sahariah" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://sjs-protfolio.netlify.app/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <a href="https://portfolio-sjs.vercel.app/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
