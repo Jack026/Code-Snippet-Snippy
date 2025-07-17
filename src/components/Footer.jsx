@@ -13,7 +13,7 @@ function SocialLinks() {
       <a href="https://linkedin.com/sourav-jyoti-sahariah" target="_blank" rel="noopener noreferrer">
         <FaLinkedin className="text-gray-500 dark:text-gray-400 hover:text-blue-700" size={20} />
       </a>
-      <a href="https://sjs-protfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+      <a href="https://souravjyotisahariah.site" target="_blank" rel="noopener noreferrer">
         <FaGlobe className="text-gray-500 dark:text-gray-400 hover:text-green-500" size={20} />
       </a>
     </div>
